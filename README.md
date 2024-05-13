@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RameshNaik9
 - 👀 I’m interested in ...software programming
 - 🌱 I’m currently learning c/c++/python..
-- 💼 I'm a under graduate student of iit kgp enrolled in electronics department..
+- 💼 I'm a under graduate student of iit kgp enrolled in electronics and electrical communication engineering department..
 - 💞️ I’m looking to collaborate on some multi companies
 - 📫 To reach me  contact : lahorirameshnaik@gmail.com
 
