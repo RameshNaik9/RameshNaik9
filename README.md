@@ -1,6 +1,4 @@
 
-;; ![data-banner-fb (2)](https://user-images.githubusercontent.com/.jpg)
-
 <h2>Hey there! I'm Ramesh</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ramesh -->
@@ -10,8 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Automation, and Data Science.\
 ✍️ &nbsp;In my free time, I work on my personality and Blog writing as hobbies\
 ✉️ &nbsp;You can contact me on my email at tecshahzeb@gmail.com! I'll try to reply as soon as I can.\
-;; 📄 &nbsp;Please have a look at my [Résumé](https://github.com/Ramesh/Ramesh/files/resume.pdf)
- for more details about me. I'm open to feedback and suggestions!
+for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
