@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Automation, and Data Science.\
 ✍️ &nbsp;In my free time, I work on my personality and Blog writing as hobbies\
-✉️ &nbsp;You can contact me on my email at tecshahzeb@gmail.com! I'll try to reply as soon as I can.\
+✉️ &nbsp;You can contact me on my email at lahorirameshnaik@gmail.com! I'll try to reply as soon as I can.\
 for more details about me. I'm open to feedback and suggestions!
 
 
